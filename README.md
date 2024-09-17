@@ -4,7 +4,7 @@ Welcome to the Weather App! This simple application allows you to view the curre
 
 ## Live Demo
 
-Check out the live version of the Weather App here: [Live Demo]()
+Check out the live version of the Weather App here: [Live Demo](https://amankaurpreet.github.io/Weather-App/)
 
 ## Features
 
