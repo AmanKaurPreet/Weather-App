@@ -2,10 +2,6 @@
 
 Welcome to the Weather App! This simple application allows you to view the current weather and forecast for any city. It's built with HTML, CSS, and JavaScript, and uses the OpenWeatherMap API to fetch weather data.
 
-## Live Demo
-
-Check out the live version of the Weather App here: [Live Demo](https://amankaurpreet.github.io/Weather-App/)
-
 ## Features
 
 - **Current Weather:** View current weather conditions for any city.
